@@ -1,0 +1,9 @@
+Title Erudit
+U http://www.erudit.org
+H www.erudit.org
+H https://www.erudit.org
+H http://id.erudit.org
+# Ajout SMA 201903 pour accéder à une version historique qui apparait dans les logs
+H http://retro.erudit.org
+H https://retro.erudit.org
+

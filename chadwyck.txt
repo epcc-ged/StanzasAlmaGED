@@ -1,0 +1,9 @@
+Title Chadwyck Patrologia Latina
+URL http://pld.chadwyck.co.uk
+HJ pld.chadwyck.co.uk
+HJ pld.chadwyck.com
+
+Title Chadwayck Acta Sanctorum
+URL http://acta.chadwyck.co.uk/
+HJ acta.chadwyck.co.uk
+HJ acta.chadwyck.com
