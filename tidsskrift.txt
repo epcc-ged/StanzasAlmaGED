@@ -1,0 +1,5 @@
+Title Tidsskrift
+H https://tidsskrift.dk
+HJ https://tidsskrift.dk
+D tidsskrift.dk
+DJ tidsskrift.dk 

@@ -1,0 +1,4 @@
+T RetroNews
+URL https://www.retronews.fr/rn-api/proxy-login?token=MTYwNzM2MDMyMnJuX2dyYW5kY29tcHRlX3NpbXBsZV9sb2dpbjQ4NzU3Nw==
+HJ https://retronews.fr
+DJ retronews.fr

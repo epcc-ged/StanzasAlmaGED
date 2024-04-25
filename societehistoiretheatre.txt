@@ -1,0 +1,7 @@
+Title Société d'histoire du théâtre
+URL https://sht.asso.fr/revue-dhistoire-du-theatre
+H https://sht.asso.fr
+HJ https://sht.asso.fr
+D sht.asso.fr
+DJ sht.asso.fr
+

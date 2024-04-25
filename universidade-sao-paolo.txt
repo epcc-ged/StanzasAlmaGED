@@ -1,0 +1,3 @@
+Title Universidade De Sao Paolo
+RedirectSafe www.revistas.usp.br/ee/issue/archive
+

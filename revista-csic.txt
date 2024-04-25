@@ -1,0 +1,12 @@
+Title Revistas CSIC
+H sefarad.revistas.csic.es
+HJ sefarad.revistas.csic.es
+H emerita.revistas.csic.es
+HJ emerita.revistas.csic.es
+H hispaniasacra.revistas.csic.es
+HJ hispaniasacra.revistas.csic.es
+H revistas.csic.es
+HJ revistas.csic.es
+D revistas.csic.es
+DJ revistas.csic.es 
+

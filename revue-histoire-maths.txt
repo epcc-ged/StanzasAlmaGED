@@ -1,0 +1,5 @@
+Title Revue d'histoire des mathématiques
+URL https://smf4.emath.fr
+URL https://smf.emath.fr
+H https://smf4.emath.fr
+H https://smf.emath.fr

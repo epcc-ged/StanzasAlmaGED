@@ -1,0 +1,4 @@
+Title Statisztikai Szemle Archivum
+RedirectSafe www.ksh.hu/statszemle_archivum
+
+

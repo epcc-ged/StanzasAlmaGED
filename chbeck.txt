@@ -1,0 +1,4 @@
+Title BECK eLibrary
+URL http://www.beck-elibrary.de/
+URL https://www.beck-elibrary.de/
+DJ beck-library.de

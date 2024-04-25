@@ -1,0 +1,3 @@
+Title Gallica
+RedirectSafe gallica.bnf.fr
+

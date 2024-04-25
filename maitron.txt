@@ -1,0 +1,6 @@
+# Plateforme : Le Maitron en ligne
+
+Title Maitron
+URL http://maitron-en-ligne.univ-paris1.fr/
+H maitron-en-ligne.univ-paris1.fr
+D univ-paris1.fr 

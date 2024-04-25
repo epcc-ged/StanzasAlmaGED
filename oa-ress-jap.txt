@@ -1,0 +1,4 @@
+Title Open Access ressources japonaises
+RedirectSafe l.u-tokyo.ac.jp
+RedirectSafe tufs.ac.jp
+RedirectSafe aa-ken.jp

@@ -1,0 +1,7 @@
+Title Revistas UCM
+URL http://revistas.ucm.es/index.php/CFCL
+H revistas.ucm.es
+HJ revistas.ucm.es
+D revistas.ucm.es
+DJ revistas.ucm.es 
+

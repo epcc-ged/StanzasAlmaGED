@@ -1,0 +1,3 @@
+Title Bib KU Leuven 
+RedirectSafe bib.kuleuven.be
+RedirectSafe https://lirias.kuleuven.be

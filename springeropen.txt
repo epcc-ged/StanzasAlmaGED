@@ -1,0 +1,5 @@
+Title SpringerOpen
+#URL https://genus.springeropen.com
+#HJ genus.springeropen.com
+#DJ springeropen.com
+RedirectSafe springeropen.com

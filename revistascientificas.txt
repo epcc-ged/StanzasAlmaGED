@@ -1,0 +1,3 @@
+Title RevistaScientificas
+RedirectSafe revistascientificas.us.es
+RedirectSafe http://revistascientificas.us.es

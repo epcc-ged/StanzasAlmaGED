@@ -1,0 +1,6 @@
+Title Sefarad
+H sefarad.revistas.csic.es
+HJ sefarad.revistas.csic.es
+D revistas.csic.es
+DJ revistas.csic.es 
+

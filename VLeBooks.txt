@@ -1,0 +1,7 @@
+Title VLeBooks
+URL https://www.vlebooks.com/
+URL http://www.vlebooks.com/
+AllowVars u
+EncryptVar u OurSecret
+D vlebooks.com
+Option DomainCookieOnly
