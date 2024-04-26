@@ -103,6 +103,7 @@ IncludeFile stanzas/isis-cb.txt
 IncludeFile stanzas/istex.txt
 IncludeFile stanzas/jama.txt
 IncludeFile stanzas/jahresberichte-deutsche-geschichte.txt
+IncludeFile stanzas/jbeplatform.txt
 IncludeFile stanzas/journalofjewishstudies.txt
 IncludeFile stanzas/jstor.txt
 IncludeFile stanzas/kiss.txt
