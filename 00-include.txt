@@ -89,6 +89,7 @@ IncludeFile stanzas/glossa.txt
 IncludeFile stanzas/glottopole.txt
 IncludeFile stanzas/harrassowitz.txt
 IncludeFile stanzas/hieroglyphs-journal.txt
+IncludeFile stanzas/hiersemann.txt
 IncludeFile stanzas/homme-univie-at.txt
 IncludeFile stanzas/hrcak.txt
 IncludeFile stanzas/hcsp.txt
@@ -167,6 +168,7 @@ IncludeFile stanzas/Renmindaxue.txt
 IncludeFile stanzas/regards.txt
 IncludeFile stanzas/renmin-ribao.txt
 IncludeFile stanzas/retronews.txt
+IncludeFile stanzas/revistacomsoc.txt
 IncludeFile stanzas/revista-csic.txt
 IncludeFile stanzas/revista-mexicana-sociologia.txt
 IncludeFile stanzas/revistafal.txt
