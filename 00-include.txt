@@ -122,6 +122,7 @@ IncludeFile stanzas/loebclassics.txt
 IncludeFile stanzas/maitron.txt
 IncludeFile stanzas/manuscriptaorientalia.txt
 IncludeFile stanzas/medind.txt
+IncludeFile stanzas/medium-aevum.txt
 IncludeFile stanzas/mekongreview.txt
 IncludeFile stanzas/mirabile.txt
 IncludeFile stanzas/mitpress.txt
@@ -160,6 +161,7 @@ IncludeFile stanzas/proletarian-china.txt
 IncludeFile stanzas/proquest.txt
 IncludeFile stanzas/proquestebookcentral.txt
 IncludeFile stanzas/radicalteacher.txt
+IncludeFile stanzas/raskb.txt
 IncludeFile stanzas/ravignani.txt
 IncludeFile stanzas/reading-ac.txt
 IncludeFile stanzas/redalyc.txt
@@ -222,3 +224,4 @@ IncludeFile stanzas/VLeBooks.txt
 IncludeFile stanzas/wanfangdata.txt
 IncludeFile stanzas/wiley-blackwell.txt
 IncludeFile stanzas/yad-yitshaq-ben-tsvi.txt
+IncludeFile stanzas/open-access-from-20240618.txt

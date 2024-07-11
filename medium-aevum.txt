@@ -1,0 +1,2 @@
+Title Medium Aevum
+RedirectSafe https://aevum.space/
