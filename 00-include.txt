@@ -20,7 +20,7 @@ IncludeFile stanzas/ben-yehuda.txt
 IncludeFile stanzas/berghahnbooks.txt
 IncludeFile stanzas/biblioscout.txt
 IncludeFile stanzas/bihr.txt
-IncludeFile stanzas/brepolisnet.txt
+IncludeFile stanzas/brepolis.txt
 IncludeFile stanzas/brepolsonline.txt
 IncludeFile stanzas/brill.txt
 IncludeFile stanzas/bristoluniv.txt

@@ -56,3 +56,4 @@ RedirectSafe studistorici.com
 RedirectSafe op.europa.eu
 RedirectSafe jhsonline.org
 RedirectSafe museogalileo.it
+RedirectSafe revistasfranciscanas.org
