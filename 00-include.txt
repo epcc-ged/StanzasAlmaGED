@@ -39,6 +39,7 @@ IncludeFile stanzas/cimi.txt
 IncludeFile stanzas/classiques-garnier.txt
 IncludeFile stanzas/cnki.txt
 IncludeFile stanzas/constructif.txt
+IncludeFile stanzas/cookielaw.txt
 IncludeFile stanzas/cresoi.txt
 IncludeFile stanzas/culanth.txt
 IncludeFile stanzas/currenthistory.txt
@@ -115,6 +116,7 @@ IncludeFile stanzas/la-vie-economique.txt
 IncludeFile stanzas/lcdpu.txt
 IncludeFile stanzas/letraslibres.txt
 IncludeFile stanzas/lexisnexis.txt
+IncludeFile stanzas/liblynx.txt
 IncludeFile stanzas/liverpoolpress.txt
 IncludeFile stanzas/localpopulationstudies.txt
 IncludeFile stanzas/lockwood.txt
